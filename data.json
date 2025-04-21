@@ -1,0 +1,86 @@
+{
+    "projects": [
+      {
+        "title": "Face Detection Using OpenCV",
+        "description": "Real-time face detection using Haarcascade classifiers with OpenCV.",
+        "github": "https://github.com/Ashu7078/face-recognition",
+        "technologies": ["Python", "OpenCV"]
+      },
+      {
+        "title": "InvestAnalysis_Excel",
+        "description": "Excel-based investment analysis using Pivot Tables, Histograms, and Radar Charts.",
+        "github": "https://github.com/Ashu7078/InvestAnalysis_Excel",
+        "technologies": ["Excel"]
+      },
+      {
+        "title": "YOLO Object Detection with Streamlit",
+        "description": "Streamlit app for YOLO-based object detection on images and videos.",
+        "github": "https://github.com/Ashu7078/Image-clasificaton",
+        "technologies": ["Python", "Streamlit", "OpenCV"]
+      },
+      {
+        "title": "Real-Time Handwritten Digit Recognition",
+        "description": "A real-time digit recognition system using OpenCV and a CNN trained on MNIST.",
+        "github": "https://github.com/Ashu7078/Handwritten-digit-recognition",
+        "technologies": ["Python", "OpenCV", "TensorFlow"]
+      },
+      {
+        "title": "File Organizer",
+        "description": "A Tkinter-based tool that organizes files in a folder based on file types.",
+        "github": "https://github.com/Ashu7078/Task-automation-with-python-scripts",
+        "technologies": ["Python", "Tkinter"]
+      }
+    ],
+    "blogs": [
+      {
+        "title": "The Future of Data in a Cyberpunk World",
+        "description": "An exploration of how data science might evolve in a high-tech, dystopian future and the ethical implications of advanced data collection.",
+        "date": "2025-03-15",
+        "link": "#"
+      },
+      {
+        "title": "Neural Networks: Beyond the Human Mind",
+        "description": "Discussing the capabilities of modern neural networks and how they're beginning to surpass human cognitive abilities in specific domains.",
+        "date": "2024-04-22",
+        "link": "#"
+      },
+      {
+        "title": "Data Encryption in the Age of Quantum Computing",
+        "description": "How traditional encryption methods are becoming obsolete as quantum computing advances, and what new methods are emerging.",
+        "date": "2024-02-10",
+        "link": "#"
+      },
+      {
+        "title": "Visualizing Investment Trends with Excel",
+        "description": "Learn how to use Pivot Tables, Charts, and Radar Diagrams to analyze financial data effectively.",
+        "date": "2024-08-20",
+        "link": "#"
+      },
+      {
+        "title": "Streamlit and YOLO: Bridging ML and UI",
+        "description": "A deep dive into how Streamlit simplifies ML deployment with a use case of real-time object detection using YOLO.",
+        "date": "2024-11-02",
+        "link": "#"
+      }
+    ],
+    "resume": {
+      "link": "https://drive.google.com/file/d/1oq4lx3vemVuj-NwhGKhHrppmoTi6Zbr2/view?usp=sharing",
+      "skills": [
+        "Data Analysis",
+        "Python Programming",
+        "Machine Learning",
+        "SQL",
+        "Data Visualization",
+        "Statistical Modeling"
+      ],
+      "education": [
+        {
+          "degree": "Bachelor of Computer Applications",
+          "institution": "Kumaun University",
+          "year": "2022"
+        }
+        
+      ]
+    }
+  }
+  
